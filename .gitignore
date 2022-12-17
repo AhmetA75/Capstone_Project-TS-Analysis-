@@ -1,0 +1,9 @@
+.idea/
+*__pycache__*
+raw_data/
+pyod_test.ipynb
+prophet_test.ipynb
+kafka-data/
+postgres-data/
+yedek/
+postgre-test.py
